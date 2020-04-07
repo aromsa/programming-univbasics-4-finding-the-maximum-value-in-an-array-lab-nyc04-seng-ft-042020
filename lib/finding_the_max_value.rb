@@ -1,7 +1,7 @@
 def find_max_value(array)
   # Add your solution here
   sorted_find_max_value = find_max_value.sort
-  
+  puts sorted_find_max_value.pop
   
   
   
