@@ -3,7 +3,6 @@ require 'pry'
 def find_max_value(array)
   # Add your solution here
   sorted_array = array.sort
-  binding.pry
   puts sorted_array.pop
   
   
