@@ -3,7 +3,7 @@ require 'pry'
 def find_max_value(array)
   # Add your solution here
   
-  
+  array.index(array.max)
   
   # sorted_array = array.sort
   # puts sorted_array.pop
