@@ -2,10 +2,11 @@ require 'pry'
 
 def find_max_value(array)
   # Add your solution here
-  sorted_array = array.sort
-  puts sorted_array.pop
   
   
+  
+  # sorted_array = array.sort
+  # puts sorted_array.pop
   
 # count = 0
 #   found_value_index = nil
