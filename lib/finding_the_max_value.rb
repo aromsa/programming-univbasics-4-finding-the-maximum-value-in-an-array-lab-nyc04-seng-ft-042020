@@ -16,7 +16,7 @@ max_value = -1
     end
     count += 1
   end
-  found_value_index
+  max_value
   
   
 end
