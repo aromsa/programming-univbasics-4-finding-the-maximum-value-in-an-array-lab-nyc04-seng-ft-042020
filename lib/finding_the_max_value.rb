@@ -5,8 +5,6 @@ def find_max_value(array)
 
 #array.max
   
-  # sorted_array = array.sort
-  # puts sorted_array.pop
   
 count = 0
 max_value = -1
